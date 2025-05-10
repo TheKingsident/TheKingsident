@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kingsley Usa!  
+# 👋 Hello, I'm Kingsley!  
 
 Welcome to my little corner of GitHub! I'm a **Junior Software Engineer** passionate about building robust backend systems, developing APIs, and occasionally diving into full-stack projects.  
 
