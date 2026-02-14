@@ -4,15 +4,15 @@ Welcome to my little corner of GitHub! I'm a **Junior Software Engineer** passio
 
 ---
 
-## 🌟 About Me  
+## About Me  
 
-So here’s the deal: I thrive on solving problems and bringing ideas to life through code. While I have a particular love for backend development (Django and Python hold a special place in my heart ❤️), I often find myself working across the full stack—and hey, I won’t complain about tackling frontend challenges either.  
+So here’s the deal: I thrive on solving problems and bringing ideas to life through code. While I have a particular love for backend development (Django and Python hold a special place in my heart ❤️), I often find myself working across the full stack and hey, I won’t complain about tackling frontend challenges either.  
 
-I’m drawn to APIs like a moth to a flame. There’s something endlessly fascinating about designing, building, and optimizing them. Whether it’s crafting elegant endpoints or ensuring seamless integration, I’m all in.  
+I’m drawn to APIs like a moth to a flame. There’s something endlessly fascinating about designing, building, and optimising them. Whether it’s crafting elegant endpoints or ensuring seamless integration, I’m all in.  
 
 ---
 
-## 🛠️ My Toolbox  
+## My Toolbox  
 
 Here’s a glimpse into the tools and technologies I use to bring projects to life:
 
@@ -46,7 +46,7 @@ Here’s a glimpse into the tools and technologies I use to bring projects to li
 
 ---
 
-## 🚀 My Projects  
+## My Projects  
 
 Here are some highlights of what I’ve been working on:  
 
@@ -88,7 +88,7 @@ A **Django-based quiz application** with a RESTful API.
 
 ---
 
-## 📚 What I’m Learning  
+## What I’m Learning  
 
 I believe growth is constant, so here are some things I’m currently exploring:  
 - Advanced **Django REST Framework** techniques.  
@@ -98,7 +98,7 @@ I believe growth is constant, so here are some things I’m currently exploring:
 
 ---
 
-## 🤝 Let’s Connect  
+## Let’s Connect  
 
 I’m always open to collaborating on exciting projects or just geeking out over tech. Feel free to reach out!  
 
